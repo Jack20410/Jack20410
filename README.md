@@ -26,7 +26,7 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 
 ### 🎯 Who I Am
 - 🎓 Software Engineering student (Class of **2028**)
-- 💻 Focused on **backend & full-stack development**
+- 💻 Focused on **backend & full-stack development, mobile**
 - 🧠 Comfortable with **REST APIs, databases, and system fundamentals**
 - 🚀 Enjoy building **production-style, real-world projects**
 
@@ -47,7 +47,12 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,postgres,mysql,git,github,docker,aws,linux,postman&perline=8" />
+  **Languages**<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,postgres,mysql,git,github,docker,aws,linux,postman&perline=8" />
+  **Fontend**<img src="https://skillicons.dev/icons?i=html,css,react,vite,vue,tailwind,flutter&perline=8" />
+  **Backend**<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase&perline=8" />
+  **Database**<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=8" />
+  **Tools**<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman&perline=8" />
+  **OS**<img src="https://skillicons.dev/icons?i=windows,apple,linux&perline=8" />
 </p>
     </td>
     <td width="50%" valign="top">
@@ -85,5 +90,9 @@ This e-commerce platform is designed for computer enthusiasts and professionals 
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
 - 📧 **Email:** giabao.le1024@example.com
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="400" />
+</p>
 
 ⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!
