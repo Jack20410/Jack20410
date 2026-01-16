@@ -47,7 +47,7 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,docker,aws,linux,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,tailwind,nodejs,express,fastapi,flutter,mongodb,postgres,mysql,git,github,docker,aws,linux,postman&perline=8" />
 </p>
     </td>
     <td width="50%" valign="top">
@@ -55,17 +55,12 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 ### 🚀 Featured Projects
 
 **🧩 Car Rental System**  
-🔗 https://github.com/Jack20410/Car-rental-system  
-- Role-based system (**Admin / Provider / Customer**)
-- Secure authentication & authorization
-- RESTful backend with database integration
+🔗 [Repository](https://github.com/Jack20410/Car-rental-system)
+A microservices-based Car Rental System built with React, Tailwind CSS, Node.js, Express, FastAPI, and MongoDB. Features vehicle management, user authentication, booking, payments, and an admin dashboard. Containerized with Docker for easy deployment and scalability
 
 **🛒 E-Commerce Computer Selling Platform**  
-🔗 https://github.com/Jack20410/E-commerce-Computers-Selling  
-- Full-stack e-commerce application
-- Product catalog, cart, and order workflows
-- Clean UI backed by structured APIs
-
+🔗 [Repository](https://github.com/Jack20410/E-commerce-Computers-Selling)
+This e-commerce platform is designed for computer enthusiasts and professionals to browse and purchase high-quality computers and components. The application features a responsive frontend built with React and Vite, a robust Node.js/Express backend, and MongoDB for data storage.
     </td>
   </tr>
 </table>
