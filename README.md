@@ -1,26 +1,34 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<h1 align="center">Hi 👋, I'm Jack</h1>
+<h1 align="center">I'm Bao Le, or you can called me Jack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Internship-Seeking+Software+Engineer;Full-Stack+Developer+%7C+Node.js+%26+React;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Internship-Seeking+Software+Engineer;Full-Stack+Developer+%7C+Node.js+%26+React;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
-🚀 Software Engineering Student | 💻 Full-Stack Developer | 🌱 Lifelong Learner
+<p align="center">
+  🚀 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🌱 Lifelong Learner
+</p>
 
-I'm a passionate software engineering student who enjoys building scalable, user-focused applications and learning modern technologies. I love solving real-world problems through clean code and thoughtful system design.
+---
 
-## 📌 Internship Snapshot
+### ✨ About Me
+I’m a **Software Engineering student (Class of 2028)** passionate about building **scalable, user-focused web applications**.  
+I enjoy working across the stack, especially **backend systems, APIs, and databases**, and I’m always learning modern tools and best practices to write clean, maintainable code.
+
+---
+
+## 📌 What am I doing
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🎯 About Me
+### 🎯 Who I Am
 - 🎓 Software Engineering student (Class of **2028**)
-- 💻 Strong interest in **backend & full-stack development**
-- 🧠 Comfortable with **REST APIs, databases, and system basics**
-- 🚀 Passionate about building real-world, production-style projects
+- 💻 Focused on **backend & full-stack development**
+- 🧠 Comfortable with **REST APIs, databases, and system fundamentals**
+- 🚀 Enjoy building **production-style, real-world projects**
 
     </td>
     <td width="50%" valign="top">
@@ -28,7 +36,7 @@ I'm a passionate software engineering student who enjoys building scalable, user
 ### 🔍 What I’m Looking For
 - 💼 **Software Engineering Internship**
 - 🧩 Backend / Full-Stack roles
-- ☁️ Cloud-aware (AWS basics)
+- ☁️ Exposure to cloud & scalable systems
 - 🌎 Open to remote or on-site opportunities
 
     </td>
@@ -46,54 +54,42 @@ I'm a passionate software engineering student who enjoys building scalable, user
     <td width="50%" valign="top">
 
 ### 🚀 Featured Projects
+
 **🧩 Car Rental System**  
 🔗 https://github.com/Jack20410/Car-rental-system  
 - Role-based system (**Admin / Provider / Customer**)
-- RESTful APIs with authentication & authorization
-- Backend-focused architecture with database integration
+- Secure authentication & authorization
+- RESTful backend with database integration
 
 **🛒 E-Commerce Computer Selling Platform**  
 🔗 https://github.com/Jack20410/E-commerce-Computers-Selling  
 - Full-stack e-commerce application
-- Product listing, cart, and order workflows
-- Clean UI with structured backend APIs
+- Product catalog, cart, and order workflows
+- Clean UI backed by structured APIs
 
     </td>
   </tr>
 </table>
 
-## 📌 What I'm Working On
+---
+
+## 🧠 What I’m Working On
 - Building full-stack web applications
-- Exploring microservices architecture
-- Improving system design & backend performance
-- Practicing data structures and algorithms
+- Exploring microservices & scalable architectures
+- Improving backend performance and system design
+- Practicing data structures & algorithms
+
+---
 
 ## 🌱 Currently Learning
 - Advanced backend development
-- Cloud-native applications
+- Cloud-native applications (AWS)
 - Software architecture & design patterns
 
-## 📫 Let's Connect
-- **LinkedIn**: [Jack Le](https://www.linkedin.com/in/jackle1024/)
-- **Email**: giabao.le1024@example.com
+---
 
-⭐️ Feel free to check out my repositories and connect with me!
+## 📫 Let’s Connect
+- 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
+- 📧 **Email:** giabao.le1024@example.com
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<!--
-**Jack20410/Jack20410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!
