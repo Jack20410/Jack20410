@@ -43,40 +43,35 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
   </tr>
 
   <tr>
+    
+  <tr>
   <td width="50%" valign="top">
 
 ### 🛠️ Tech Stack
 
 <strong>Languages</strong><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java&perline=8" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 
 <strong>Frontend</strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,vue,tailwind,flutter&perline=8" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,vue,tailwind,flutter" />
 
 <strong>Backend</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase&perline=8" />
-
-<br/><br/>
-
-<strong>Databases</strong><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=8" />
-
-<br/><br/>
-
-<strong>Tools & Cloud</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman&perline=8" />
-
-<br/><br/>
-
-<strong>OS</strong><br/>
-<img src="https://skillicons.dev/icons?i=windows,apple,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
 
   </td>
   <td width="50%" valign="top">
+
+<strong>Databases</strong><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+<strong>Tools & Cloud</strong><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" />
+
+<strong>OS</strong><br/>
+<img src="https://skillicons.dev/icons?i=windows,apple,linux" />
+
+  </td>
+</tr>
 
 ### 🚀 Featured Projects
 
@@ -113,7 +108,7 @@ This e-commerce platform is designed for computer enthusiasts and professionals 
 - 📧 **Email:** giabao.le1024@example.com
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1200" height="400" />
 </p>
 
 ⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!
