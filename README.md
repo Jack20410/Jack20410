@@ -56,9 +56,6 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 <strong>Backend</strong><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
 
-  </td>
-  <td width="50%" valign="top">
-
 <strong>Databases</strong><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
@@ -102,14 +99,13 @@ This e-commerce platform is designed for computer enthusiasts and professionals 
 </tr>
 </table>
 
-<h1 align="center">
+
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
 - 📧 **Email:** giabao.le1024@example.com
-</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1000" height="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1200" height="400" />
 </p>
 
-<h1 align="center">⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!</h1>
+<h7 align="center">⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!</h7>
