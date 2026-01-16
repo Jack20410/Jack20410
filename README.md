@@ -49,6 +49,8 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,docker,aws,linux,postman&perline=8" />
 </p>
+    </td>
+    <td width="50%" valign="top">
 
 ### 🚀 Featured Projects
 
