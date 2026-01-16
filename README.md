@@ -43,8 +43,6 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
   </tr>
 
   <tr>
-    
-  <tr>
   <td width="50%" valign="top">
 
 ### 🛠️ Tech Stack
@@ -71,7 +69,7 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
 
   </td>
-</tr>
+  <td width="50%" valign="top">
 
 ### 🚀 Featured Projects
 
@@ -84,31 +82,34 @@ A microservices-based Car Rental System built with React, Tailwind CSS, Node.js,
 This e-commerce platform is designed for computer enthusiasts and professionals to browse and purchase high-quality computers and components. The application features a responsive frontend built with React and Vite, a robust Node.js/Express backend, and MongoDB for data storage.
     </td>
   </tr>
-</table>
 
----
+  <tr>
+  <td width="50%" valign="top">
 
-## 🧠 What I’m Working On
+  ## 🧠 What I’m Working On
 - Building full-stack web applications
 - Exploring microservices & scalable architectures
 - Improving backend performance and system design
 - Practicing data structures & algorithms
 
----
-
+</td>
+<td width="50%" valign="top">
 ## 🌱 Currently Learning
 - Advanced backend development
 - Cloud-native applications (AWS)
 - Software architecture & design patterns
+  </td>
+</tr>
+</table>
 
----
-
+<h1 align="center">
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
 - 📧 **Email:** giabao.le1024@example.com
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1200" height="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1000" height="300" />
 </p>
 
-⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!
+<h1 align="center">⭐️ Feel free to explore my repositories and connect — I’m always open to learning and collaboration!</h1>
