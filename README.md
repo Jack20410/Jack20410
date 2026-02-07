@@ -14,6 +14,10 @@
 I’m a **Software Engineering student (Class of 2028)** passionate about building **scalable, user-focused web applications**.  
 I enjoy working across the stack, especially **backend systems, APIs, and databases**, and I’m always learning modern tools and best practices to write clean, maintainable code.
 
+## 📫 Let’s Connect
+- 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
+- 📧 **Email:** giabao.le1024@example.com
+
 ---
 
 ## 📌 What am I doing
@@ -98,11 +102,6 @@ A cross-platform note-taking application built with Flutter, demonstrating a pro
   </td>
 </tr>
 </table>
-
-
-## 📫 Let’s Connect
-- 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
-- 📧 **Email:** giabao.le1024@example.com
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA3ZHVjNDc3bmdwOHFrdDFzaTAycHcyc3o3ajc5M2VhcXdxYW96aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.gif" width="1200" height="400" />
