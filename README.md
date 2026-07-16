@@ -16,7 +16,7 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** [Jack Le](https://www.linkedin.com/in/jackle1024/)
-- 📧 **Email:** giabao.le1024@example.com
+- 📧 **Email:** giabao.le1024@gmail.com
 - 📋 **[Portfolio](https://jack20410.github.io/jabick/#about)**
 
 ---
