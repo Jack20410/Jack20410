@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🌱 Lifelong Learner
+  🚀 Software Engineering Student &nbsp;|&nbsp; 🌱 Lifelong Learner
 </p>
 
 ---
@@ -73,8 +73,11 @@ I enjoy working across the stack, especially **backend systems, APIs, and databa
 
 ### 🚀 Featured Projects
 
+**[📱Liquid](https://github.com/Jack20410/Liquid)**  
+A private, on-device personal budgeting app for iOS, built with SwiftUI and SwiftData. Liquid uses envelope (zero-based) budgeting: money is tracked two ways at once — where it is (an account) and what it is for (an envelope) — and every dollar of income is given a job.
+
 **[🚗 Car Rental System](https://github.com/Jack20410/Car-rental-system)**  
-A microservices-based Car Rental System built with React, Tailwind CSS, Node.js, Express, FastAPI, and MongoDB. Features vehicle management, user authentication, booking, payments, and an admin dashboard. Containerized with Docker for easy deployment and scalability
+A microservices-based Car Rental System built with React, Tailwind CSS, Node.js, Express, FastAPI, and MongoDB. Features vehicle management, user authentication, booking, payments, and an admin dashboard. Containerized with Docker for easy deployment and scalability.
 
 **[💻 E-Commerce Computer Selling Platform](https://github.com/Jack20410/E-commerce-Computers-Selling)**  
 This e-commerce platform is designed for computer enthusiasts and professionals to browse and purchase high-quality computers and components. The application features a responsive frontend built with React and Vite, a robust Node.js/Express backend, and MongoDB for data storage.
